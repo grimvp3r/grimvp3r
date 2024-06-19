@@ -1,7 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Minecraft&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello%2C+im+grimvip3r!)](https://git.io/typing-svg)
 
 ## I like to code, play minecraft, record and work on projects!
-![Static Badge](https://img.shields.io/badge/gender-men%F0%9F%91%A8-green)
+![Static Badge](https://img.shields.io/badge/gender-men%F0%9F%91%A8-green) ![](https://api.visitorbadge.io/api/VisitorHit?user=grimvp3r&repo=github-visitors-badge&countColor=%white)
+
+
 
 
 ## Projects:
