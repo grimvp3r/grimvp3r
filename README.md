@@ -16,6 +16,9 @@
 - I Code/Programm since 3 years and i still really enjoy it
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=grimvp3r)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grimvp3r)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 # [![Discord Presence](https://lanyard.cnrad.dev/api/778663346438012928)](https://discord.com/users/778663346438012928)
